@@ -1,2 +1,6 @@
 Código Modificado
+<<<<<<< HEAD
 Olá eu me chamo Gustavo!
+=======
+Olá, Mundo!
+>>>>>>> pardal
